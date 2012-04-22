@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="more_function_item_bg">#ffffff</color>
+    <color name="default_background">#ffffff</color>
+    <color name="grid_background">#ffffff</color>
+    <color name="font_yellow">#33B5E5</color>
+    <color name="font_white">#000000</color>
+    
+    <color name="default_list_background">#ffffff</color>
+    <color name="default_list_selected_background">#33B5E5</color>
+    <color name="tab_bg">#ffffff</color>
+    <color name="tab_bg_p">#33B5E5</color>
+</resources>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 카카오톡 테마 설정에서 보여줄 제목 -->
+    <string name="theme_title">Holo Light</string>
+    <!-- 안드로이드 설치 페이지에서 보여줄 제목 -->
+    <string name="app_name">Android HoloLight</string>
+</resources>	

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:color="#ffffff"/> <!-- 친구 리스트의 대표 섹션 폰트 색상 결정, 예) 내 프로필, 즐겨찾는 친구, ㄱ,ㄴ,ㄷ,ㄹ  -->
+</selector>

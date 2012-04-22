@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.tigris.kakao.talk.theme.HoloLight"
+    android:versionCode="5"
+    android:versionName="1.4" >
+
+    <!-- kakaotalk theme -->
+    <permission android:name="com.kakao.talk.theme.V1" />
+    <uses-sdk android:minSdkVersion="4" />
+    <application android:label="@string/theme_title"
+                 android:icon="@drawable/icon"
+                 android:debuggable="true" />
+
+</manifest>
