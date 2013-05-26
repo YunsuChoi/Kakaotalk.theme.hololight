@@ -22,9 +22,13 @@ public final class R {
         public static final int tab_bg_p=0x7f030008;
         public static final int thm_chatroom_my_message_font_color=0x7f030009;
         public static final int thm_chatroom_other_message_font_color=0x7f03000a;
+        public static final int thm_chatroom_send_font_color=0x7f03000f;
         public static final int thm_friendlist_message_font_color=0x7f03000b;
         public static final int thm_general_default_list_item_title_font_color=0x7f03000c;
         public static final int thm_general_default_list_section_header_font_color=0x7f03000d;
+        public static final int thm_minipf_dial_button_font_color=0x7f030010;
+        public static final int thm_minipf_friends_count_font_color=0x7f030011;
+        public static final int thm_minipf_visit_plus_home_font_color=0x7f030012;
         public static final int thm_tab_text_font_color=0x7f03000e;
     }
     public static final class drawable {
@@ -90,11 +94,18 @@ public final class R {
         public static final int thm_minipf_addon_box_bg=0x7f02003b;
         public static final int thm_minipf_bg=0x7f02003c;
         public static final int thm_minipf_button_bg=0x7f02003d;
+        public static final int thm_minipf_button_n=0x7f020063;
+        public static final int thm_minipf_button_p=0x7f020064;
         public static final int thm_minipf_close_button_icon=0x7f02003e;
+        public static final int thm_minipf_dial_button_bg=0x7f020065;
         public static final int thm_minipf_edit_name_button_icon=0x7f02003f;
         public static final int thm_minipf_favorite_add_button_icon=0x7f020040;
         public static final int thm_minipf_favorite_remove_button_icon=0x7f020041;
         public static final int thm_minipf_gift_button_icon=0x7f020042;
+        public static final int thm_minipf_visit_plus_home_arrow=0x7f020066;
+        public static final int thm_minipf_visit_plus_home_bg=0x7f020067;
+        public static final int thm_minipf_voicetalk_n=0x7f020068;
+        public static final int thm_minipf_voicetalk_p=0x7f020069;
         public static final int thm_more_function_item_account_icon=0x7f020043;
         public static final int thm_more_function_item_bg=0x7f020044;
         public static final int thm_more_function_item_gamecenter_icon=0x7f020045;
@@ -129,11 +140,7 @@ public final class R {
         public static final int thm_tab_recommend_icon=0x7f020062;
     }
     public static final class string {
-        /**  안드로이드 설치 페이지에서 보여줄 제목 
-         */
         public static final int app_name=0x7f040001;
-        /**  카카오톡 테마 설정에서 보여줄 제목 
-         */
         public static final int theme_title=0x7f040000;
     }
 }

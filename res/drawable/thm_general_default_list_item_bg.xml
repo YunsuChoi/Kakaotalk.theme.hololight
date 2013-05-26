@@ -1,12 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android" >
-
-    <padding
-        android:bottom="6dp"
-        android:left="6dp"
-        android:right="6dp"
-        android:top="6dp" />
-    <!-- 리스트 항목간 거리 조정: 적을수록 조밀함  -->
-    <solid android:color="#ffffff"/>
-	<!-- 리스트 배경색상 지정 -->
+<shape
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <padding android:left="6.0dip" android:top="6.0dip" android:right="6.0dip" android:bottom="6.0dip" />
+    <solid android:color="#ffffffff" />
 </shape>

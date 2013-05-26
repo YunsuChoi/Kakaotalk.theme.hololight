@@ -9,8 +9,6 @@ package com.tigris.kakao.talk.theme.HoloLight;
 
 public final class Manifest {
     public static final class permission {
-        /**  kakaotalk theme 
-         */
         public static final String V1="com.kakao.talk.theme.V1";
     }
 }

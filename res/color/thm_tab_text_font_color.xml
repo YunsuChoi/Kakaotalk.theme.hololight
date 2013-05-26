@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
-<selector xmlns:android="http://schemas.android.com/apk/res/android">
-
-    <item android:state_checked="true" android:color="#33B5E5"/>
-    <item android:state_selected="true" android:color="#33B5E5"/> <!-- 선택한 탭 텍스트 색상 -->
-    <item android:state_focused="true" android:color="#33B5E5"/> 
-    <item android:state_pressed="true" android:color="#33B5E5"/> <!-- 리스트 누를때 텍스트 색상 -->
-    <item android:color="#808080"/> <!--선택되지 않은 탭 폰트 색상 -->
-
+<selector
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_checked="true" android:color="#ff33b5e5" />
+    <item android:state_selected="true" android:color="#ff33b5e5" />
+    <item android:state_focused="true" android:color="#ff33b5e5" />
+    <item android:state_pressed="true" android:color="#ff33b5e5" />
+    <item android:color="#ff808080" />
 </selector>
